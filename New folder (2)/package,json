@@ -1,14 +1,5 @@
-{
-  "name": "portfolio",
-  "version": "1.0.0",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "^14.0.0",  // ← this must be here
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  }
+"dependencies": {
+  "next": "^14.2.0",    ← this MUST be here
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0"
 }
